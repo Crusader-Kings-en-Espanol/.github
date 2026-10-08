@@ -2,7 +2,7 @@
 
 ## Acerca del proyecto
 
-Bienvenidos al proyecto de traducción mejorada al español de *Crusader Kings III* y sus principales modificaciones. Nuestro objetivo es revisar, corregir y actualizar las localizaciones del juego base, sus contenidos descargables y los principales mods de la comunidad, unificando la terminología y mejorando aquellas traducciones imprecisas, inconsistentes o poco naturales, con el fin de ofrecer una experiencia más coherente, inmersiva y fiel a cada universo.
+Nuestro objetivo es revisar, corregir y actualizar las localizaciones del juego base, sus contenidos descargables y los principales mods de la comunidad, unificando la terminología y mejorando aquellas traducciones imprecisas, inconsistentes o poco naturales, con el fin de ofrecer una experiencia más coherente, inmersiva y fiel a cada universo.
 
 La traducción del juego base busca mejorar tanto la naturalidad de los textos como el uso de términos históricos, culturales, religiosos y políticos, procurando respetar el contexto y el estilo narrativo propio de *Crusader Kings III*. Esto incluye la revisión de mecánicas, eventos, decisiones, contratos, títulos, culturas, religiones, descripciones y elementos de la interfaz.
 
